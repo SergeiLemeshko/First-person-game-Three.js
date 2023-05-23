@@ -1,0 +1,35 @@
+{
+  "hash": "46fc4652",
+  "browserHash": "fd96d1a9",
+  "optimized": {
+    "three": {
+      "src": "../../node_modules/three/build/three.module.js",
+      "file": "three.js",
+      "fileHash": "08fd5a8d",
+      "needsInterop": false
+    },
+    "three/addons/controls/PointerLockControls.js": {
+      "src": "../../node_modules/three/examples/jsm/controls/PointerLockControls.js",
+      "file": "three_addons_controls_PointerLockControls__js.js",
+      "fileHash": "a2dc2db5",
+      "needsInterop": false
+    },
+    "three/addons/loaders/GLTFLoader.js": {
+      "src": "../../node_modules/three/examples/jsm/loaders/GLTFLoader.js",
+      "file": "three_addons_loaders_GLTFLoader__js.js",
+      "fileHash": "629e58db",
+      "needsInterop": false
+    },
+    "three/examples/jsm/math/OBB": {
+      "src": "../../node_modules/three/examples/jsm/math/OBB.js",
+      "file": "three_examples_jsm_math_OBB.js",
+      "fileHash": "c1b3bc9e",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-YW5CZGKX": {
+      "file": "chunk-YW5CZGKX.js"
+    }
+  }
+}
